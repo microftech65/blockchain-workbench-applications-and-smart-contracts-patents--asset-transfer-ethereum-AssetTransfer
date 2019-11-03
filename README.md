@@ -1,0 +1,2 @@
+# blockchain-workbench-applications-and-smart-contracts-patents--asset-transfer-ethereum-AssetTransfer
+Statistically based smart contract patents rating method and system whereby relative rankings are generated using a database of smart contract patents info by identifying and comparing various characteristics of each group of smart contract patents statistically determining distributions of the same characteristics within any given smart contract patents populations
